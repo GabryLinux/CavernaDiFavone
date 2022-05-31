@@ -3,6 +3,7 @@ import StorylineItem from './StorylineItem'
 import StorylineContent from './StorylineContent.js'
 import storia from '../../../JSONfiles/Storia.json'
 import ArrowSVG from '../../ArrowSVG';
+import { Link } from 'react-router-dom';
 
 function Storyline() {
   const [isChecked, setIsChecked] = useState(false);
@@ -65,7 +66,13 @@ var textConclusione = 'Dopo il 20 Febbraio, del giovane piú nulla si seppe e an
                 </div>
               <div className='w-1 h-20  rounded-t-full'></div>
             </div>
+            <div className='w-1/2 relative flex justify-end'>
+            <Link to={"/2ndPart"}>
+              <button className='fixed bottom-5 bg-white right-1/3 px-4 py-2 border-2 hover:bg-green-800 hover:text-white transition-all duration-300 rounded-md z-50'>Articolo Successivo</button>
+            </Link>
+          </div>
     </div>
+    
     </>
   )
 }
