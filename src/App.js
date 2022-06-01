@@ -9,7 +9,7 @@ import SecondArticle from './Components/SecondArticlePage/SecondArticle';
 import 'katex/dist/katex.min.css';
 function App() {
   return (
-    <div className='flex w-full h-full flex-col'>
+    <div className='flex w-full h-full flex-col relative'>
       <Navbar/>
       <BrowserRouter>
         <Routes>

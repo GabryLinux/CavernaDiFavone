@@ -16,6 +16,7 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "react-text-format": "^2.0.30",
+    "react-tilt": "^0.1.4",
     "web-vitals": "^2.1.0",
     "webpack": "^5.72.1"
   },
