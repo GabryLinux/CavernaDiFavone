@@ -36,7 +36,7 @@ function SecondArticle() {
         <Br/>
         <div className='w-full md:w-3/4  text-gray-500 whitespace-pre-wrap break-words'>
             <p>{
-                `Cari cuozzi, come va? Spero almeno voi bene. Vi ricordate il caso Fisher? Ecco, c’è stato un leak di informazioni. Un noto hacker della rete, nome d’arte Morpheus, afferma di essere riuscito a infiltrarsi nel dispositivo del giovane per fare luce sul mistero ancora fitto della sua scomparsa. Ebbene, ha fatto trapelare alcuni file dal suo cellulare, sopratutto le note dell'app blocco note, che offrono un interessante spaccato del suo pensiero piú sincero, piú intimo, quello celato agli occhi dei suoi follower. Non crederete mai ai vostri occhi.\n Sperando nell'autenticitá di questi dati, propongo qui di seguito la lettura di alcune note chiave per svelare il mistero.\n\n\n\n`
+                `Cari cuozzi, come va? Spero almeno voi bene. Vi ricordate il caso Fisher? Ecco, c’è stato un leak di informazioni. Un noto hacker della rete, meglio conosciuto come 'Wall', afferma di essere riuscito a infiltrarsi nel dispositivo del giovane per fare luce sul mistero ancora fitto della sua scomparsa. Ebbene, ha fatto trapelare alcuni file dal suo cellulare, sopratutto le note dell'app blocco note, che offrono un interessante spaccato del suo pensiero piú sincero, piú intimo, quello celato agli occhi dei suoi follower. Non crederete mai ai vostri occhi.\n Sperando nell'autenticitá di questi dati, propongo qui di seguito la lettura di alcune note chiave per svelare il mistero.\n\n\n\n`
             }</p>
         </div>
         <div>
